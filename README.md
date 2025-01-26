@@ -34,4 +34,4 @@ In this repository, you will find resources and examples that cover the followin
 ## How to Use This Repository
 1. Clone this repository to your local machine:
    ```bash
-   [git clone https://github.com/your-username/workshop-repo.git](https://github.com/techticsclubpakistan/github_workshop.git)
+   git clone https://github.com/your-username/workshop-repo.git
